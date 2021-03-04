@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hello There
 
-<!--
-**pederzini98/pederzini98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Lucas and i work as a Web developer
+I'm on the 4th year of information systems at Unesp.
 
-Here are some ideas to get you started:
+Some tools that i know: 
+  - Node JS
+  - React JS
+  - React Native
+  - Mongo DB
+  - Postgree
+  - HTML
+  - CSS
+  - Typescript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ⚡ Fun fact: The first oranges weren’t orange
+ 
+ 
+ Never Give up!
+ 
+![Goku](https://giffiles.alphacoders.com/610/61010.gif)
