@@ -16,7 +16,3 @@ Some tools that i know:
  ## ⚡Fun fact: The first oranges weren’t orange
  
  
- Never Give up!
- 
-![Goku](https://giffiles.alphacoders.com/610/61010.gif)
-  
