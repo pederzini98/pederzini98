@@ -2,8 +2,6 @@
 
 I'm Lucas and i work as a Web developer.
 
-I'm on the 4th year of information systems at Unesp.
-
 ![github stats](https://github-readme-stats.vercel.app/api?username=pederzini98)       
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pederzini98)](https://github.com/pederzini98/github-readme-stats)
 
