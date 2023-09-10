@@ -8,7 +8,8 @@
   <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pederzini98&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=pederzini98&bg_color=21083a&color=fffafa&line=62037c&point=f2f2f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Lucas Pederzini's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pederzini98)](https://github.com/pederzini98/github-readme-activity-graph)
+
 
 ### Main skills:
 ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp;
