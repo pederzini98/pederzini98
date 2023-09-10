@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=861EA1C&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=30&duration=5008&pause=1000&color=BB2AE1&size=35&center=true&vCenter=true&width=1000&lines=Nice+to+meet+you!;I+hope+my+code+can+be+helpful!;Have+a+nice+day;%23MambaMentality)](https://git.io/typing-svg)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pederzini98)](https://github.com/pederzini98/github-readme-stats)
 
 
 
