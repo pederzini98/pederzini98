@@ -8,14 +8,12 @@
   <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pederzini98&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-[![Lucas Pederzini's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pederzini98&count_private=true)](https://github.com/pederzini98/github-readme-activity-graph)
-
 
 ### Main skills:
 ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp;
 ![.NET](https://img.shields.io/badge/-dotnet-0D1117?style=for-the-badge&logo=dotnet&labelColor=0D1117)&nbsp;
 ![Mongo Db](https://img.shields.io/badge/-mongo-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)&nbsp;
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=kafka&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
