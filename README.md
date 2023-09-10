@@ -25,7 +25,7 @@
   
 ### Studying:
 ![Algorithms](https://img.shields.io/badge/-Algorithms-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-![Clean Architecture](https://img.shields.io/badge/-Clean-Architecture-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
+![Clean Architecture](https://img.shields.io/badge/-Algorithms-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=861EA1C&height=120&section=footer"/>
