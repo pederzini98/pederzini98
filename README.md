@@ -8,7 +8,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pederzini98&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-[![Lucas Pederzini's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pederzini98)](https://github.com/pederzini98/github-readme-activity-graph)
+[![Lucas Pederzini's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pederzini98&count_private=true)](https://github.com/pederzini98/github-readme-activity-graph)
 
 
 ### Main skills:
