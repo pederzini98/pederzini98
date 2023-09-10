@@ -14,7 +14,7 @@
 ![.NET](https://img.shields.io/badge/-dotnet-0D1117?style=for-the-badge&logo=dotnet&labelColor=0D1117)&nbsp;
 ![Mongo Db](https://img.shields.io/badge/-mongo-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=kafka&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-![Visual Studio Code](https://cdn.jsdelivr.net/npm/simple-icons@9.14.0/icons/apachekafka.svg)&nbsp;
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
   
